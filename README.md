@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Raviprabha Sanduni</h1>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=%2338C2FF&size=20&&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+also+a+Computer+Science+Undergraduate" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=%230EAA20&size=20&&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+also+a+Computer+Science+Undergraduate" /></a>
 </p>
+<p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<hr>
+<br>
 
 <h3 align="center">A passionate computer science undergraduate who loves solving complex problems and turning ideas into functional web applications.</h3>
 
