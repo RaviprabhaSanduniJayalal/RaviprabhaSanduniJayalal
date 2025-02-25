@@ -14,9 +14,14 @@
 
 <!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raviprabhasandunijayalal" alt="raviprabhasandunijayalal" /></a> </p-->
 
+- 👯 I’m a computer Science Undergraduate of **University of Ruhuna**
+ 
 - 🔭 I’m currently working on [Ceylon Fusion](https://github.com/Ceylon-Fusion-Project)
 
 - 📫 How to reach me **sanduniraviprabha@gmail.com**
+  
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
