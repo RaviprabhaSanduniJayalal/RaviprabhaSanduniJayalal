@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Raviprabha Sanduni</h1>
+
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=%2338C2FF&size=20&&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+also+a+Computer+Science+Undergraduate" /></a>
+</p>
+
 <h3 align="center">A passionate computer science undergraduate who loves solving complex problems and turning ideas into functional web applications.</h3>
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raviprabhasandunijayalal" alt="raviprabhasandunijayalal" /></a> </p>
+<!--p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raviprabhasandunijayalal" alt="raviprabhasandunijayalal" /></a> </p-->
 
 - 🔭 I’m currently working on [Ceylon Fusion](https://github.com/Ceylon-Fusion-Project)
 
