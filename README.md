@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=%230EAA20&size=22&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I'm+a+Software+Developer;Computer+Science+Undergraduate" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=%230EAA20&size=22&center=true&vCenter=true&lines=Welcome+to+my+GitHub+profile!;I'm+a+Software+Developer;a+Computer+Science+Undergraduate" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 - 🎓 I’m a **Computer Science Undergraduate** at **University of Ruhuna**  
 - 🌿 Currently working on **[Ceylon Fusion](https://github.com/Ceylon-Fusion-Project)** — an eCommerce & booking platform for a cinnamon estate  
-- 💡 Passionate about **Web Development**, **Mobile App Development**, and **Problem Solving**  
+- 💡 Passionate about **Web Development** and **Problem Solving**  
 - 📫 How to reach me: **sanduniraviprabha@gmail.com**  
 
 ---
