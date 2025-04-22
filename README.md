@@ -43,10 +43,7 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Development" />
 </div>
 
-### ☁️ Cloud & DevOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins" alt="Cloud & DevOps" />
-</div>
+
 
 ### 🛠️ Tools & Technologies
 <div align="center">
