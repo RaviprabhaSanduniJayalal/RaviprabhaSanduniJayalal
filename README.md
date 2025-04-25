@@ -17,7 +17,8 @@
 - 🎓 I’m a **Computer Science Undergraduate** at **University of Ruhuna, Sri Lanka**  
 - 🌿 Currently working on **[Ceylon Fusion](https://github.com/Ceylon-Fusion-Project)** — an eCommerce & booking platform for a cinnamon estate  
 - 💡 Passionate about **Web Development** and **Problem Solving**  
-- 📫 How to reach me: **sanduniraviprabha@gmail.com**  
+- 📫 How to reach me: **sanduniraviprabha@gmail.com**
+-  **[Portfolio](https://raviprabha-sanduni.netlify.app/)** 
 
 ---
 
